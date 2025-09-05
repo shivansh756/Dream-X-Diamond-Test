@@ -1,7 +1,12 @@
-<<<<<<< HEAD
+
 # 🚀 Welcome to Dream X Diamond Code Scaffold
 
-A modern, production-ready web application scaffold powered by cutting-edge technologies, designed to accelerate your development with [Dream X Diamond](https://dreamxdiamond)'s AI-powered coding assistance.
+A modern, production-ready web application scaffold powered by cutting-edge technologies, designed to accelerate your development with [Dream X Diamond](https://dreamxdiamond.com)'s AI-powered coding assistance.
+=======
+# 🚀 Welcome to Dream X Diamond Code Scaffold
+
+A modern, production-ready web application scaffold powered by cutting-edge technologies, designed to accelerate your development with [Dream X Diamond](https://dreamxdiamond.com.com)'s AI-powered coding assistance.
+>>>>>>> 7d8e1f9 (first commit)
 
 ## ✨ Technology Stack
 
@@ -75,7 +80,7 @@ Open [http://localhost:3000](http://localhost:3000) to see your application runn
 
 ## 🤖 Powered by Dream X Diamond
 
-This scaffold is optimized for use with [Dream X Diamond](https://dreamxdiamond) - your AI assistant for:
+This scaffold is optimized for use with [Dream X Diamond](https://dreamxdiamond.com) - your AI assistant for:
 
 - **💻 Code Generation** - Generate components, pages, and features instantly
 - **🎨 UI Development** - Create beautiful interfaces with AI assistance  
@@ -83,7 +88,7 @@ This scaffold is optimized for use with [Dream X Diamond](https://dreamxdiamond)
 - **📝 Documentation** - Auto-generate comprehensive documentation
 - **🚀 Optimization** - Performance improvements and best practices
 
-Ready to build something amazing? Start chatting with Dream X Diamond at [Dream X Diamond](https://dreamxdiamond) and experience the future of AI-powered development!
+Ready to build something amazing? Start chatting with Dream X Diamond at [Dream X Diamond](https://dreamxdiamond.com) and experience the future of AI-powered development!
 
 ## 📁 Project Structure
 
@@ -133,13 +138,10 @@ This scaffold includes a comprehensive set of modern web development tools:
 ## 🤝 Get Started with Dream X Diamond
 
 1. **Clone this scaffold** to jumpstart your project
-2. **Visit [Dream X Diamond](https://dreamxdiamond)** to access your AI coding assistant
+2. **Visit [Dream X Diamond](https://dreamxdiamond.com)** to access your AI coding assistant
 3. **Start building** with intelligent code generation and assistance
 4. **Deploy with confidence** using the production-ready setup
 
 ---
 
-Built with ❤️ for the developer community. Supercharged by [Dream X Diamond](https://dreamxdiamond) 🚀
-=======
-# Dream-X-Diamond-Test
->>>>>>> d4cd2b9 (Initial commit)
+Built with ❤️ for the developer community. Supercharged by [Dream X Diamond](https://dreamxdiamond.com) 🚀
