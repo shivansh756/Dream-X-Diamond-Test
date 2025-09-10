@@ -3,6 +3,7 @@ import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import { ThemeProvider } from "@/components/theme-provider";
 import { Toaster } from "@/components/ui/toaster";
+import { SpeedInsights } from "@vercel/speed-insights/next"; // ✅ Imported here
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -16,11 +17,21 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Dream X Diamond - Premium IT Services & Software Solutions",
-  description: "Transform your business with premium IT solutions. We offer web development, mobile apps, cloud services, cybersecurity, and AI/ML solutions. Luxury technology services for elite businesses.",
+  description:
+    "Transform your business with premium IT solutions. We offer web development, mobile apps, cloud services, cybersecurity, and AI/ML solutions. Luxury technology services for elite businesses.",
   keywords: [
-    "IT services", "web development", "mobile app development", "cloud services", 
-    "cybersecurity", "AI solutions", "software development", "digital marketing", 
-    "IT consulting", "database management", "tech solutions", "business transformation"
+    "IT services",
+    "web development",
+    "mobile app development",
+    "cloud services",
+    "cybersecurity",
+    "AI solutions",
+    "software development",
+    "digital marketing",
+    "IT consulting",
+    "database management",
+    "tech solutions",
+    "business transformation",
   ],
   authors: [{ name: "Dream X Diamond Team" }],
   creator: "Dream X Diamond",
@@ -28,7 +39,8 @@ export const metadata: Metadata = {
   robots: "index, follow",
   openGraph: {
     title: "Dream X Diamond - Premium IT Services & Software Solutions",
-    description: "Transform your business with premium IT solutions. Expert web development, mobile apps, cloud services, and cybersecurity.",
+    description:
+      "Transform your business with premium IT solutions. Expert web development, mobile apps, cloud services, and cybersecurity.",
     url: "https://dreamxdiamond.com",
     siteName: "Dream X Diamond",
     type: "website",
@@ -45,7 +57,8 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Dream X Diamond - Premium IT Services & Software Solutions",
-    description: "Transform your business with premium IT solutions. Expert web development, mobile apps, cloud services, and cybersecurity.",
+    description:
+      "Transform your business with premium IT solutions. Expert web development, mobile apps, cloud services, and cybersecurity.",
     images: ["/twitter-image.jpg"],
   },
   icons: {
@@ -67,26 +80,27 @@ export default function RootLayout({
     "name": "Dream X Diamond",
     "url": "https://dreamxdiamond.com",
     "logo": "https://dreamxdiamond.com/logo.png",
-    "description": "Premium IT services and software development company providing web development, mobile apps, cloud services, cybersecurity, and AI/ML solutions for elite businesses.",
+    "description":
+      "Premium IT services and software development company providing web development, mobile apps, cloud services, cybersecurity, and AI/ML solutions for elite businesses.",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "123 Tech Street",
       "addressLocality": "Silicon Valley",
       "addressRegion": "CA",
       "postalCode": "94000",
-      "addressCountry": "US"
+      "addressCountry": "US",
     },
     "contactPoint": {
       "@type": "ContactPoint",
       "telephone": "+1-555-123-4567",
       "contactType": "customer service",
-      "email": "info@dreamxdiamond.com"
+      "email": "info@dreamxdiamond.com",
     },
     "sameAs": [
       "https://linkedin.com/company/dreamxdiamond",
       "https://twitter.com/dreamxdiamond",
       "https://facebook.com/dreamxdiamond",
-      "https://instagram.com/dreamxdiamond"
+      "https://instagram.com/dreamxdiamond",
     ],
     "foundingDate": "2008",
     "numberOfEmployees": "50-100",
@@ -100,72 +114,72 @@ export default function RootLayout({
           "itemOffered": {
             "@type": "Service",
             "name": "Web Development",
-            "description": "Custom web applications using modern frameworks"
-          }
+            "description": "Custom web applications using modern frameworks",
+          },
         },
         {
           "@type": "Offer",
           "itemOffered": {
             "@type": "Service",
             "name": "Mobile App Development",
-            "description": "Native and cross-platform mobile solutions"
-          }
+            "description": "Native and cross-platform mobile solutions",
+          },
         },
         {
           "@type": "Offer",
           "itemOffered": {
             "@type": "Service",
             "name": "Cloud Services",
-            "description": "Scalable cloud infrastructure and migration"
-          }
+            "description": "Scalable cloud infrastructure and migration",
+          },
         },
         {
           "@type": "Offer",
           "itemOffered": {
             "@type": "Service",
             "name": "Cybersecurity",
-            "description": "Comprehensive security solutions and audits"
-          }
+            "description": "Comprehensive security solutions and audits",
+          },
         },
         {
           "@type": "Offer",
           "itemOffered": {
             "@type": "Service",
             "name": "AI/ML Solutions",
-            "description": "Artificial intelligence and machine learning"
-          }
+            "description": "Artificial intelligence and machine learning",
+          },
         },
         {
           "@type": "Offer",
           "itemOffered": {
             "@type": "Service",
             "name": "Digital Marketing",
-            "description": "SEO, SEM, and digital marketing strategies"
-          }
+            "description": "SEO, SEM, and digital marketing strategies",
+          },
         },
         {
           "@type": "Offer",
           "itemOffered": {
             "@type": "Service",
             "name": "Database Management",
-            "description": "Database design, optimization, and management"
-          }
+            "description": "Database design, optimization, and management",
+          },
         },
         {
           "@type": "Offer",
           "itemOffered": {
             "@type": "Service",
             "name": "IT Consulting",
-            "description": "Strategic IT consulting and advisory services"
-          }
-        }
-      ]
+            "description": "Strategic IT consulting and advisory services",
+          },
+        },
+      ],
     },
     "aggregateRating": {
       "@type": "AggregateRating",
       "ratingValue": "4.9",
-      "reviewCount": "500"
-    }
+      "reviewCount": "500",
+    },
   };
 
   return (
@@ -174,7 +188,7 @@ export default function RootLayout({
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
-            __html: JSON.stringify(structuredData)
+            __html: JSON.stringify(structuredData),
           }}
         />
       </head>
@@ -189,6 +203,7 @@ export default function RootLayout({
         >
           {children}
           <Toaster />
+          <SpeedInsights /> {/* ✅ Added here */}
         </ThemeProvider>
       </body>
     </html>
