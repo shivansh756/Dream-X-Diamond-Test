@@ -2,11 +2,6 @@
 # 🚀 Welcome to Dream X Diamond Code Scaffold
 
 A modern, production-ready web application scaffold powered by cutting-edge technologies, designed to accelerate your development with [Dream X Diamond](https://dreamxdiamond.com)'s AI-powered coding assistance.
-=======
-# 🚀 Welcome to Dream X Diamond Code Scaffold
-
-A modern, production-ready web application scaffold powered by cutting-edge technologies, designed to accelerate your development with [Dream X Diamond](https://dreamxdiamond.com.com)'s AI-powered coding assistance.
->>>>>>> 7d8e1f9 (first commit)
 
 ## ✨ Technology Stack
 

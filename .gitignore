@@ -47,3 +47,7 @@ test
 prompt
 
 server.log
+<<<<<<< HEAD
+=======
+README.md
+>>>>>>> 6fed9d8 (Added Vercel SpeedInsights to RootLayout)
