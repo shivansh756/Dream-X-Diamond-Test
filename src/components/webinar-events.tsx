@@ -131,8 +131,8 @@ const events: Event[] = [
     recordingAvailable: true,
     registrationDeadline: '2024-02-14',
     status: 'upcoming',
-    organizer: 'TechSolutions Pro',
-    contactEmail: 'events@techsolutionspro.com'
+    organizer: 'Dream X Diamond',
+    contactEmail: 'events@dreamxdiamond.com'
   },
   {
     id: '2',
@@ -175,8 +175,8 @@ const events: Event[] = [
     recordingAvailable: false,
     registrationDeadline: '2024-02-18',
     status: 'upcoming',
-    organizer: 'TechSolutions Pro',
-    contactEmail: 'events@techsolutionspro.com'
+    organizer: 'Dream X Diamond',
+    contactEmail: 'events@dreamxdiamond.com'
   },
   {
     id: '3',
@@ -228,8 +228,8 @@ const events: Event[] = [
     recordingAvailable: true,
     registrationDeadline: '2024-03-08',
     status: 'upcoming',
-    organizer: 'TechSolutions Pro',
-    contactEmail: 'events@techsolutionspro.com'
+    organizer: 'Dream X Diamond',
+    contactEmail: 'events@dreamxdiamond.com'
   },
   {
     id: '4',
@@ -248,7 +248,7 @@ const events: Event[] = [
         id: 's6',
         name: 'Alex Thompson',
         title: 'Senior Frontend Developer',
-        company: 'TechSolutions Pro',
+        company: 'Dream X Diamond',
         bio: 'React specialist with passion for performance optimization and user experience.',
         expertise: ['React', 'Performance', 'Frontend Architecture'],
         social: { linkedin: '#', github: '#' }
@@ -272,8 +272,8 @@ const events: Event[] = [
     recordingAvailable: true,
     registrationDeadline: '2024-01-24',
     status: 'completed',
-    organizer: 'TechSolutions Pro',
-    contactEmail: 'events@techsolutionspro.com'
+    organizer: 'Dream X Diamond',
+    contactEmail: 'events@dreamxdiamond.com'
   },
   {
     id: '5',
@@ -316,8 +316,8 @@ const events: Event[] = [
     recordingAvailable: false,
     registrationDeadline: '2024-02-03',
     status: 'completed',
-    organizer: 'TechSolutions Pro',
-    contactEmail: 'events@techsolutionspro.com'
+    organizer: 'Dream X Diamond',
+    contactEmail: 'events@dreamxdiamond.com'
   },
   {
     id: '6',
@@ -358,8 +358,8 @@ const events: Event[] = [
     recordingAvailable: false,
     registrationDeadline: '2024-02-07',
     status: 'completed',
-    organizer: 'TechSolutions Pro',
-    contactEmail: 'events@techsolutionspro.com'
+    organizer: 'Dream X Diamond',
+    contactEmail: 'events@dreamxdiamond.com'
   }
 ]
 

@@ -1776,7 +1776,7 @@ export default function Home() {
                   </div>
                   <div>
                     <h3 className="font-semibold">Phone</h3>
-                    <p className="text-muted-foreground">+1 (555) 123-4567</p>
+                    <p className="text-muted-foreground">+91 8824395449</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-4">

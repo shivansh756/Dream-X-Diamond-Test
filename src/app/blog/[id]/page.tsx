@@ -102,7 +102,7 @@ Whether you're a seasoned developer or just starting your journey, embracing the
     featured: true,
     views: 1250,
     likes: 89,
-    authorBio: "Alex Johnson is the CEO & Founder of TechSolutions Pro with over 15 years of experience in web development and digital transformation. He's passionate about emerging technologies and their impact on business innovation."
+    authorBio: "Alex Johnson is the CEO & Founder of Dream X Diamond with over 15 years of experience in web development and digital transformation. He's passionate about emerging technologies and their impact on business innovation."
   },
   2: {
     id: 2,
@@ -353,7 +353,7 @@ The cloud offers tremendous opportunities for innovation, growth, and efficiency
     featured: true,
     views: 980,
     likes: 67,
-    authorBio: "Maria Garcia is the CTO at TechSolutions Pro with 12+ years of experience in cloud architecture and DevOps. She's an AWS Certified Solutions Architect passionate about helping businesses leverage cloud technologies effectively."
+    authorBio: "Maria Garcia is the CTO at Dream X Diamond with 12+ years of experience in cloud architecture and DevOps. She's an AWS Certified Solutions Architect passionate about helping businesses leverage cloud technologies effectively."
   }
 }
 

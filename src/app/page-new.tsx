@@ -753,7 +753,7 @@ export default function Home() {
               <div className="w-8 h-8 bg-primary rounded-lg flex items-center justify-center">
                 <Code className="w-5 h-5 text-primary-foreground" />
               </div>
-              <span className="font-bold text-xl">TechSolutions Pro</span>
+              <span className="font-bold text-xl">Dream X Diamond</span>
             </div>
             
             <div className="hidden md:flex items-center space-x-6">
@@ -823,7 +823,7 @@ export default function Home() {
                 <VideoPlayer
                   src="/videos/company-intro.mp4"
                   poster="/videos/intro-poster.jpg"
-                  title="TechSolutions Pro Introduction"
+                  title="Dream X Diamond Introduction"
                   className="w-full"
                 />
               </div>
@@ -1023,7 +1023,7 @@ export default function Home() {
               <Badge variant="secondary">About Us</Badge>
               <h2 className="text-4xl font-bold">Leading IT Solutions Provider</h2>
               <p className="text-lg text-muted-foreground leading-relaxed">
-                Founded in 2008, TechSolutions Pro has been at the forefront of digital transformation, helping businesses leverage technology to achieve their goals.
+                Founded in 2008, Dream X Diamond has been at the forefront of digital transformation, helping businesses leverage technology to achieve their goals.
               </p>
               <p className="text-lg text-muted-foreground leading-relaxed">
                 Our mission is to deliver innovative, reliable, and scalable technology solutions that drive business success and create lasting value for our clients.
@@ -1424,7 +1424,7 @@ export default function Home() {
             <Badge variant="secondary" className="mb-4">Partner Program</Badge>
             <h2 className="text-4xl font-bold mb-4">Join Our Partner Network</h2>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-              Grow your business by partnering with TechSolutions Pro.
+              Grow your business by partnering with Dream X Diamond.
             </p>
           </div>
           
@@ -1483,7 +1483,7 @@ export default function Home() {
                   </div>
                   <div>
                     <h3 className="font-semibold">Phone</h3>
-                    <p className="text-muted-foreground">+1 (555) 123-4567</p>
+                    <p className="text-muted-foreground">+91 8824395449</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-4">
@@ -1492,7 +1492,7 @@ export default function Home() {
                   </div>
                   <div>
                     <h3 className="font-semibold">Email</h3>
-                    <p className="text-muted-foreground">info@techsolutionspro.com</p>
+                    <p className="text-muted-foreground">info@dreamxdiamond.com</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-4">
@@ -1606,7 +1606,7 @@ export default function Home() {
                 <div className="w-8 h-8 bg-primary rounded-lg flex items-center justify-center">
                   <Code className="w-5 h-5 text-primary-foreground" />
                 </div>
-                <span className="font-bold text-xl">TechSolutions Pro</span>
+                <span className="font-bold text-xl">Dream X Diamond</span>
               </div>
               <p className="text-gray-400">
                 Leading IT solutions provider with 15+ years of experience in digital transformation.
@@ -1664,7 +1664,7 @@ export default function Home() {
           </div>
           
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>© 2024 TechSolutions Pro. All rights reserved.</p>
+            <p>© 2024 Dream X Diamond. All rights reserved.</p>
           </div>
         </div>
       </footer>

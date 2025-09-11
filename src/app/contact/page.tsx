@@ -70,7 +70,7 @@ export default function ContactPage() {
       icon: Phone,
       title: 'Phone',
       details: [
-        '+1 (555) 123-4567',
+        '+91 8824395449',
         '+1 (555) 987-6543',
         'Mon-Fri 9:00 AM - 6:00 PM PST'
       ]
@@ -99,7 +99,7 @@ export default function ContactPage() {
     {
       city: 'San Francisco, CA',
       address: '123 Tech Street, Suite 100',
-      phone: '+1 (555) 123-4567',
+      phone: '+91 8824395449',
       email: 'sf@dreamxdiamond.com',
       hours: 'Mon-Fri 9:00 AM - 6:00 PM',
       services: ['Web Development', 'Mobile Apps', 'Cloud Services']
@@ -609,7 +609,7 @@ export default function ContactPage() {
                     {
                       title: 'Phone Support',
                       description: 'Direct phone support for immediate assistance',
-                      contact: '+1 (555) 123-4567',
+                      contact: '+91 8824395449',
                       hours: '24/7 for enterprise clients',
                       bestFor: 'Urgent issues and immediate assistance'
                     },

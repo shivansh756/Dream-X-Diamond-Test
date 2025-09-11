@@ -341,11 +341,11 @@ export default function SupportCenter() {
                   <CardContent className="space-y-3">
                     <div className="flex items-center gap-2">
                       <Phone className="w-4 h-4 text-muted-foreground" />
-                      <span className="text-sm">+1 (555) 123-4567</span>
+                      <span className="text-sm">+91 8824395449</span>
                     </div>
                     <div className="flex items-center gap-2">
                       <Mail className="w-4 h-4 text-muted-foreground" />
-                      <span className="text-sm">support@techsolutionspro.com</span>
+                      <span className="text-sm">support@dreamxdiamond</span>
                     </div>
                     <div className="flex items-center gap-2">
                       <Clock className="w-4 h-4 text-muted-foreground" />
@@ -641,7 +641,7 @@ export default function SupportCenter() {
                         <div className="space-y-4">
                           <div>
                             <div className="font-semibold">Support Line</div>
-                            <div className="text-lg">+1 (555) 123-4567</div>
+                            <div className="text-lg">+91 8824395449</div>
                           </div>
                           <div>
                             <div className="font-semibold">Hours</div>
@@ -674,7 +674,7 @@ export default function SupportCenter() {
                         <div>
                           <div className="font-semibold mb-2">General Inquiries</div>
                           <div className="text-sm text-muted-foreground mb-1">
-                            info@techsolutionspro.com
+                            info@dreamxdiamond.com
                           </div>
                           <div className="text-xs text-muted-foreground">
                             Response time: 1-2 hours
@@ -683,7 +683,7 @@ export default function SupportCenter() {
                         <div>
                           <div className="font-semibold mb-2">Technical Support</div>
                           <div className="text-sm text-muted-foreground mb-1">
-                            support@techsolutionspro.com
+                            support@dreamxdiamond.com
                           </div>
                           <div className="text-xs text-muted-foreground">
                             Response time: 30 minutes - 1 hour
@@ -692,7 +692,7 @@ export default function SupportCenter() {
                         <div>
                           <div className="font-semibold mb-2">Emergency Support</div>
                           <div className="text-sm text-muted-foreground mb-1">
-                            emergency@techsolutionspro.com
+                            emergency@dreamxdiamond.com
                           </div>
                           <div className="text-xs text-muted-foreground">
                             Response time: 15 minutes
@@ -701,7 +701,7 @@ export default function SupportCenter() {
                         <div>
                           <div className="font-semibold mb-2">Sales Inquiries</div>
                           <div className="text-sm text-muted-foreground mb-1">
-                            sales@techsolutionspro.com
+                            sales@dreamxdiamond.com
                           </div>
                           <div className="text-xs text-muted-foreground">
                             Response time: 2-4 hours

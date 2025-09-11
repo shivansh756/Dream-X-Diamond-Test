@@ -49,7 +49,7 @@ export function WhatsAppFloat() {
                   <MessageCircle className="w-6 h-6" />
                 </div>
                 <div>
-                  <div className="font-semibold">TechSolutions Pro</div>
+                  <div className="font-semibold">Dream X Diamond</div>
                   <div className="text-xs opacity-90">Typically replies within minutes</div>
                 </div>
               </div>
@@ -91,7 +91,7 @@ export function WhatsAppFloat() {
                       </div>
                       <div className="bg-white rounded-lg p-3 max-w-[80%]">
                         <p className="text-sm">
-                          Hi! Welcome to TechSolutions Pro. 👋
+                          Hi! Welcome to Dream X Diamond. 👋
                         </p>
                         <p className="text-sm mt-1">
                           How can I help you today?

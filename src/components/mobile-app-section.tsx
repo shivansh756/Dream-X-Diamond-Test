@@ -133,7 +133,7 @@ export function MobileAppSection() {
                     <Smartphone className="w-6 h-6 text-white" />
                   </div>
                   <div>
-                    <h3 className="text-xl font-bold">TechSolutions Pro</h3>
+                    <h3 className="text-xl font-bold">Dream X Diamond</h3>
                     <p className="text-sm text-muted-foreground">Your Business, Mobile</p>
                   </div>
                 </CardTitle>

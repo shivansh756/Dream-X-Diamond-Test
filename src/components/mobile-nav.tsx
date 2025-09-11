@@ -46,7 +46,7 @@ export function MobileNav({ scrollToSection }: MobileNavProps) {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4" />
                 </svg>
               </div>
-              <span className="font-bold text-xl">TechSolutions Pro</span>
+              <span className="font-bold text-xl">Dream X Diamond</span>
             </div>
             <Button variant="ghost" size="icon" onClick={() => setOpen(false)}>
               <X className="h-6 w-6" />
@@ -72,11 +72,11 @@ export function MobileNav({ scrollToSection }: MobileNavProps) {
               <div className="space-y-3">
                 <div className="flex items-center gap-3 text-sm">
                   <Phone className="w-4 h-4 text-muted-foreground" />
-                  <span>+1 (555) 123-4567</span>
+                  <span>+91 8824395449</span>
                 </div>
                 <div className="flex items-center gap-3 text-sm">
                   <Mail className="w-4 h-4 text-muted-foreground" />
-                  <span>info@techsolutionspro.com</span>
+                  <span>info@dreamxdiamond.com</span>
                 </div>
                 <div className="flex items-center gap-3 text-sm">
                   <MapPin className="w-4 h-4 text-muted-foreground" />
